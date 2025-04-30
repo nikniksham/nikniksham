@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   </table>
 </div>
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 30px;">
   <td style="border: none;>
     <a href="https://github.com/anuraghazra/convoychat">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikniksham&layout=donut-vertical&count=8&hide=html,jupyter%20notebook,css,scss&exclude_repo=NikiZavrsVr&theme=dark&langs_count=8"/>
