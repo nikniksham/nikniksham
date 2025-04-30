@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikniksham&langs_count=8&hide=html&hide=jupyter%20notebook)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikniksham&layout=donut&count=8&hide=html)](https://github.com/anuraghazra/github-readme-stats)
