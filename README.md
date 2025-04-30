@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nikniksham&show_icons=true&theme=dark)
 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nikniksham&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nikniksham)](https://github.com/anuraghazra/github-readme-stats)
