@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <table>
+  <table style="border: none">
     <tr>
       <td>
         <a href="https://github.com/anuraghazra/convoychat">
